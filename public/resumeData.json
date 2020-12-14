@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Ayan Adigiri",
+    "occupation": "Student",
+    "description": "currently doing internship in 'Aberrantz inc.' where I work as a Web Developer of our products, as well as I was the tester in both IOS and Andriod platform.",
+    "image": "profilepic.jpg",
+    "bio": "I am an athlete at heart, with an entrepreneurial spirit, and a passion for coding. While pursuing my B.C.A course I got my first internship in Aberrantz Inc. I joined there as an Application tester, But after looking my passion to learn, I was promoted to assistant admin developer. Still I work in this company as an web developer. ",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ayanadigiri55@gmail.com",
+    "phone": "8348248364",
+    "address": {
+      "street": "Harop",
+      "city": "Howrah",
+      "state": "West Bengal",
+      "zip": "711303"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "So, here are some skill's, I have ",
+    "education": [
+      {
+        "school": "Bangalpur U.C High School",
+        "degree": "Secondary & Higher Secondary",
+        "graduated": "2016 & 2018",
+        "description": "Under the guidence and help of very good teachers I got passed from B.U.C.H.S. After Secondary examination, I took Science subject in my 11th and 12th standard."
+      },
+      {
+        "school": "Seacom Management College",
+        "degree": "Bachelor of Computer Application",
+        "graduated": "2021",
+        "description": " After passing Higher Secondary exam I took admisson on Seacom Management College. Under guidence of very good teachers, I learned programming and I fall in love with this. Looking into my bright mind one of my programming teacher refered my name in Aberrantz Inc. And I got selected in the company."
+      }
+    ],
+    "work": [
+      {
+        "company": "Aberrantz Inc.",
+        "title": "Web Developer",
+        "years": "March 2019 - Present",
+        "description": "While pursuing my bachelors course, I got selected in the company as an Application tester. Then I was promoted to Web development in Admin panel. And still working."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C Programming",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlusts",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
