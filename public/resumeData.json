@@ -95,8 +95,16 @@
         "level": "80%"
       },
       {
+        "name": "DBMS",
+        "level": "50%"
+      },
+      {
         "name": "ReactJs",
         "level": "40%"
+      },
+      {
+        "name": "BootsTrap",
+        "level": "60%"
       },
       {
         "name": "MongoDB",
@@ -107,16 +115,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlusts",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "SnapParc",
+        "category": "This is an admin section. As per company's privacy policy i can't give the link.",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": ""
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
+        "title": "SnapParc",
+        "category": "This is the website of the product.",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": ""
       }
     ]
   },
